@@ -4,5 +4,5 @@ def position_taken?
     return false
   else
     return true
-  end 
+  end
 end
